@@ -1,7 +1,7 @@
 package leetcode.editor.cn;
 
 import java.util.*;
-public class ID501FindModeInBinarySearchTree{
+class ID501FindModeInBinarySearchTree{
     public static void main(String[] args) {
         Solution solution = new ID501FindModeInBinarySearchTree().new Solution();
 
